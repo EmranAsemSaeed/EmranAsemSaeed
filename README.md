@@ -1,7 +1,6 @@
-<marquee behavior="scroll" direction="left" scrollamount="5">
-🚀 Welcome to my GitHub profile! I’m Emran — an IT Engineer passionate about smart technologies. 💻
+<marquee behavior="scroll" direction="left" scrollamount="6">
+🌟 Welcome to my GitHub profile! I'm Emran — Information Technology Engineer 🚀
 </marquee>
-
 # 👨‍💻 Emran Asem
 
 ## 🧠 Information Technology Engineer | Passionate about Smart Solutions & Clean Code
